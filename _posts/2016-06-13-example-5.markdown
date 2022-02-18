@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Example 5"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
+title:  "Holbox"
+description: Isla Holbox es una isla del norte de la península de Yucatán de México, en el estado de Quintana Roo. Es parte de la Reserva de la Biosfera Yum Balam y la separa del continente la laguna Yalahau, que alberga flamencos y pelícanos.
 date:   2016-06-13 10:51:47 +0530
 categories: jekyll update
 img: image-2.jpg
@@ -10,22 +10,18 @@ color: 4bb5b8
 author: webjeda
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+ ![image](https://user-images.githubusercontent.com/98052095/154746271-881366e0-8f17-4461-9547-7dcbb467e27e.png)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Isla Holbox es una isla del norte de la península de Yucatán de México, en el estado de Quintana Roo. Es parte de la Reserva de la Biosfera Yum Balam y la separa del continente la laguna Yalahau, que alberga flamencos y pelícanos.
 
-Jekyll also offers powerful support for code snippets:
+ ![image](https://user-images.githubusercontent.com/98052095/154746350-c7f59f9b-27f7-4741-98ee-af3b093de3e9.png)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+ La isla se encuentra entre el mar Caribe y el golfo de México, con aguas ricas en fauna marina, como tortugas marinas. Los aspectos destacados de la isla incluyen la tranquila villa Holbox y la playa Punta Coco.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Es un muy buen lugar para descansar y darse un respiro de la ciudad.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![image](https://user-images.githubusercontent.com/98052095/154746669-a6452de2-c826-45f6-90f0-90501df5c28b.png)
+
+
+
+[jekyll-docs]: https://www.facebook.com/mara.garcia.5249349
