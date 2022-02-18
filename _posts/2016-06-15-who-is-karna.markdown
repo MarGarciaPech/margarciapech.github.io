@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Who is Karna?"
-description: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis vehicula tincidunt lacus nec fringilla. Morbi molestie fringilla laoreet. Vestibulum venenatis ante in imperdiet venenatis. 
-date:   2016-06-13 10:51:47 +0530
+title:  "Quién Your Shinning Star?"
+description: Es un lugar donde podremos ver lugares tipo 'paceful' con sus decripciones
 categories: jekyll update
 img: karna.jpg
 categories: [one, two]
