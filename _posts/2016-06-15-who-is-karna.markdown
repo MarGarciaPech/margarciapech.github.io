@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quién Your Shinning Star?"
+title:  "Quién es Your Shinning Star?"
 description: Es un lugar donde podremos ver lugares tipo 'paceful' con sus decripciones
 categories: jekyll update
 img: karna.jpg
