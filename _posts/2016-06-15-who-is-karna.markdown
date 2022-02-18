@@ -3,7 +3,8 @@ layout: post
 title:  "Quién es Your Shinning Star?"
 description: Es un lugar donde podremos ver lugares tipo 'paceful' con sus decripciones
 categories: jekyll update
-img: yourshinningstar.jpg
+img: [yourshinningstar](https://user-images.githubusercontent.com/98052095/154740916-bdd57db8-623e-4bd7-915c-d51a36e87e91.jpg)
+
 categories: [one, two]
 color: 1976D2
 author: webjeda
