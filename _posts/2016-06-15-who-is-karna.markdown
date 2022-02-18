@@ -6,7 +6,7 @@ categories: jekyll update
 img: images-hq/yourshinningstar.jpg
 
 categories: [one, two]
-color: 1976D2
+color: bae0f5
 author: webjeda
 ---
 En esta comunidad podremos encontrar destinos 'turísticos´donde nos inspire demasiada tranquilidad y una paz visual.
