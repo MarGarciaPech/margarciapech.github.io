@@ -6,7 +6,7 @@ date:   2022-02-18 01:31:47 +0530
 categories: jekyll update
 img: image-1.jpg
 categories: [one, two]
-color: d3bcf6
+color: 5abfa0
 author: webjeda
 ---
 
