@@ -4,7 +4,7 @@ title:  "Quién es Your Shinning Star?"
 description: Es un lugar donde podremos ver lugares tipo 'paceful' con sus decripciones
 date: 2022/02/18 02:16:45
 categories: jekyll update
-img:65d53975939b0adec95aa436647f7351.jpg 
+img: 65d53975939b0adec95aa436647f7351.jpg 
 categories: [one, two]
 color: 4dbaae
 author: webjeda
