@@ -12,7 +12,8 @@ author: webjeda
 En esta comunidad podremos encontrar destinos 'turísticos´donde nos inspire demasiada tranquilidad y una paz visual.
 Esta idea surgió después de ver hermosos lugares que parecen irreales. Pero son totalmente ciertos!!
 
-![image]: https://github.com/MarGarciaPech/margarciapech.github.io/blob/master/images/65d53975939b0adec95aa436647f7351.jpg
+![yourshinningstar](https://user-images.githubusercontent.com/98052095/155000180-05767d6f-ba08-4fe6-8d7d-4bae09271655.jpg)
+
 
 
 Image Credits - [18days](https://www.youtube.com/watch?v=kyHFBybC3RI) and [Nisachar](http://nisachar.deviantart.com/gallery/37429163/18-Days) 
