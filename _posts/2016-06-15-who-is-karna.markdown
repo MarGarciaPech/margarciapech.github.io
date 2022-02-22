@@ -12,7 +12,7 @@ author: webjeda
 En esta comunidad podremos encontrar destinos 'turísticos´donde nos inspire demasiada tranquilidad y una paz visual.
 Esta idea surgió después de ver hermosos lugares que parecen irreales. Pero son totalmente ciertos!!
 
-![yourshinningstar](https://user-images.githubusercontent.com/98052095/155000180-05767d6f-ba08-4fe6-8d7d-4bae09271655.jpg)
+![yourshinningstar1](https://user-images.githubusercontent.com/98052095/155214367-400500f3-af16-42e0-ae3d-e098837a31a9.png)
 
 
 
