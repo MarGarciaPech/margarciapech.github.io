@@ -4,7 +4,7 @@ title:  "Villa Saraceni"
 description: Villa Sareceni scale dei turchi es un acantilado rocoso en la costa de Realmonte.
 date:   2022-02-18 01:31:47 +0530
 categories: jekyll update
-img: ![image](https://user-images.githubusercontent.com/98052095/155425508-bdfcf7ec-f376-437f-b866-b50dc3c1a08a.png)
+img: villa saraceni.png
 categories: [one, two]
 color: 5abfa0
 author: webjeda
