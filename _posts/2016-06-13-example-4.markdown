@@ -1,11 +1,28 @@
 ---
 layout: post
-title:  "Nota"
-description: Profesor, realmente hice lo que pude, esto es muy dificil :( espero y esté correcto todo :)
+title:  Isla de Capri
+description: La Isla de Capri se encuentra en Italia, Europa.
 date:  2016-06-13 10:51:47 +0530
 categories: jekyll update
-img: image-3.jpg
+img: isla de skye.jpg
 categories: [one, two]
 color: '006064'
 author: webjeda
 ---
+
+La Isla de Skye es la más conocida de las Tierras Altas, la más apreciada y fascinante, conocida también como la Isla de las Hadas por sus impresionantes paisajes y parajes escondidos. Estas tierras tan remotas del Norte de Escocia, que tanto inspiraron a escritores y pintores, también siguen despertando una gran admiración entre los viajeros. La Isla de Skye siempre estuvo separada del suelo británico hasta que en 1995 se construyó un puente uniendo las poblaciones de Kyleakin y Kyle of Lochalsh.
+
+Conocida simplemente como La Isla, ha servido de inspiración para artistas y viajeros, de socorro para marineros y de refugio de reyes. Pero también es hogar de hadas y gigantes, de uno de los mejores whiskys de Escocia y de acantilados que desafían al norte.
+
+![image](https://user-images.githubusercontent.com/98052095/155427863-455b77aa-dc2e-4e60-9072-ba35d7d1e48a.png)
+
+Una de las paradas obligatorias en este viaje por la Isla de Skye es el castillo de Dunvegan. En la parte oeste, donde reside el actual jefe del clan MacCleod, sobresale el castillo de Dunvengan.
+Por otro lado, el castillo de Dunvengan se encuentra rodeado por unos jardines que podrían ser el sueño de todo entendido en botánica y especies exóticas, además de estar sobre uno de los grandes lagos del Norte de Escocia. Allí llegan las focas a refugiarse del hambre voraz de las ballenas que no pueden entrar a los recovecos que protegen el majestuoso castillo.
+
+![image](https://user-images.githubusercontent.com/98052095/155427918-e89f1fa0-8cf8-4832-abd6-4d8ccb8b5dd7.png)
+
+Explicar exactamente cómo llegar a este lugar en concreto de la isla de Skye puede resultar algo difícil. De hecho, ni siquiera de camino encontrarás carteles de cómo llegar, solo un pequeño cuadradito con el nombre “Fairy Glen”. A partir de ahí, lo mejor es ir preguntando a la gente de la isla para saber si vas por el camino adecuado.
+
+Una vez estéis allí, habrá merecido la pena la búsqueda. El valle de las hadas os llevará a un universo paralelo. El paisaje de un verde intenso, sus montes naturales y las vistas que se obtienen de los alrededores te dejarán sin respiración por unos momentos.
+
+En todo el valle encontrarás unas lagunas conocidas como las “fairy pools”, un árbol caído digno de una escena de cuento y alguna que otra oveja a lo largo del paseo.
