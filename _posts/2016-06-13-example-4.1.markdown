@@ -4,7 +4,7 @@ title:  Isla de Capri
 description: La Isla de Capri se encuentra en Italia, Europa.
 date:  2016-06-13 10:51:47 +0530
 categories: jekyll update
-img: isladeskye.jpg
+![isladeskye](https://user-images.githubusercontent.com/98052095/155430437-ad6b0fdc-01e2-4260-9550-3a3be24865c3.jpg)
 categories: [one, two]
 color: '006064'
 author: webjeda
